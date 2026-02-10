@@ -144,7 +144,7 @@ python 04_data_quality_report.py
 ## 📸 Screenshots
 
 ### Executive Overview
-![Executive Dashboard](screenshots/dashboard_overview.png)
+![Executive Dashboard](screenshots/executive_overview.png)
 
 ### Product Analysis
 ![Product Performance](screenshots/product_analysis.png)
